@@ -1,3 +1,3 @@
 ## @desc
 
-Implementing of Season Definition in the hemisphere app on React using Semantic-UI
+Implementing of Season Hemisphere Definition app on React using Semantic-UI
